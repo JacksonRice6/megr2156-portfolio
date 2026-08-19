@@ -17,6 +17,11 @@ In order to reproduce this, the most important part would be the drawings. Each 
 
 **Evidence of Reasoning**
 
+This portfolio does not show how the decisions were made or why they were made. It shows the final product, however, it also includes steps to building the product.
+
+**Professional Tone**
+
+There is very limited words in this portfolio. Where there are words though are very concise and clear. They let you know exactly what they are talking about with limited amount of words, which is, in my opinion, the best way to convey information.
 
 
 ## Decide
