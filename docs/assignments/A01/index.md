@@ -3,7 +3,7 @@
 ## Objective
 For this assignment I had to 
 
-## Analyze
+## **Analyze**
 
 ### Task A
 
