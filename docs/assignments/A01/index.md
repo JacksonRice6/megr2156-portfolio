@@ -66,7 +66,9 @@ If you look closely at the picture you can see brackets on either end of the ban
 
 ## Decide
 
+### Homepage
 
+The homepage of an engineering portfolio, or any portfolio for that matter, should be to tell the reader what they are there for instantly. You should be able to look and see 'oh this is mechanical engineering and I am going to see their work', simple.
 
 ## Communicate
 
