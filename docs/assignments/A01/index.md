@@ -26,7 +26,7 @@ This portfolio does not show how the decisions were made or why they were made. 
 
 There is very limited words in this portfolio. Where there are words though are very concise and clear. They let you know exactly what they are talking about with limited amount of words, which is, in my opinion, the best way to convey information.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------
+**---------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 For my second portfolio, I am analyzing: https://nhoong.github.io/index.html
 
@@ -46,6 +46,10 @@ This portfolio does a really good job at showing all the work behind it and why 
 **Professional Tone**
 
 The tone of this portfolio is very professional using engineering words and phrases to help get his point across. The only problem is he wasn't concise and it got a little hard to read sometimes because of the sheer amount of words he used to explain something simple. Other than that it was very well written.
+
+
+### Task B
+
 
 
 ## Decide
