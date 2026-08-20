@@ -59,12 +59,13 @@ This product primarily uses elastic potential energy to work. When you stretch i
 
 I could not find one filed for the rubber band, the closest that there was is the elastic band. The patent number is US381879A and the author is B. W. HOWARD. It is described as being used for holding together papers. So an alternative would be the paperclip, since its primary function is to do the same. Another would be a folder. Although bulkier, it still gets the job done. Obviously for different situations you would want different products to do the job.
 
-If you look closely at the picture you can see brackets on either end of the band. It doesn't specifically say what they are for, but I would assume it is holding the band together and may even be removable. If they are removable I would guess he did that to let the user be able to remove the bracket easily slip the papers in, the close it.
+If you look closely at the picture you can see brackets on either end of the band. It doesn't specifically say what they are for, but I would assume it is holding the band together and may even be removable. If they are removable I would guess he did that to let the user be able to remove the bracket easily slip the papers in, then close it.
 
 
 
 
 ## Decide
+
 
 
 ## Communicate
