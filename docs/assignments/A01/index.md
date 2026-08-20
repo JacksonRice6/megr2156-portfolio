@@ -66,9 +66,11 @@ If you look closely at the picture you can see brackets on either end of the ban
 
 ## Decide
 
-### Homepage
+### Homepage Identity
 
-The homepage of an engineering portfolio, or any portfolio for that matter, should be to tell the reader what they are there for instantly. You should be able to look and see 'oh this is mechanical engineering and I am going to see their work', simple.
+The homepage of an engineering portfolio, or any portfolio for that matter, should be to tell the reader what they are there for instantly. You should be able to look and see 'oh this is mechanical engineering and I am going to see their work', simple. I decided to add the picture of the drawings because I feel that describes mechanical engineering very well. Gears are typically correlated with mechanical engineering and it's a drawing because we design it. I thought it was simple but effective.
+
+### One Intentional Customization
 
 ## Communicate
 
