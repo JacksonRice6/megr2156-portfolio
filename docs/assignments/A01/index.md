@@ -3,7 +3,7 @@
 ## Objective
 For this assignment I had to 
 
-## **Analyze**
+## Analyze
 
 ### Task A
 
@@ -26,6 +26,7 @@ This portfolio does not show how the decisions were made or why they were made. 
 
 There is very limited words in this portfolio. Where there are words though are very concise and clear. They let you know exactly what they are talking about with limited amount of words, which is, in my opinion, the best way to convey information.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 For my second portfolio, I am analyzing: https://nhoong.github.io/index.html
 
