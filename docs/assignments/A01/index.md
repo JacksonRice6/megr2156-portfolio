@@ -26,7 +26,7 @@ This portfolio does not show how the decisions were made or why they were made. 
 
 There is very limited words in this portfolio. Where there are words though are very concise and clear. They let you know exactly what they are talking about with limited amount of words, which is, in my opinion, the best way to convey information.
 
-**---------------------------------------------------------------------------------------------------------------------------------------------------------**
+**----------------------------------------------------------------------------------------------------------**
 
 For my second portfolio, I am analyzing: https://nhoong.github.io/index.html
 
@@ -54,7 +54,12 @@ For my product I chose a rubber band. While, yes, it may not be the first thing 
 
 This product primarily uses elastic potential energy to work. When you stretch it the potential energy builds up, so when you release, it snaps back to its original state, turning the potential energy into kinetic energy. Other variables of energy could be sound or heat. This product provides neither. One assumption would be the material. We know it is made of rubber and we know rubber is inherently elastic. From this we can deduce it uses elastic potential energy.
 
+
 <img width="2320" height="3408" alt="US381879-drawings-page-1" src="https://github.com/user-attachments/assets/3e85387d-1883-489a-8839-2399741b83ea" />
+
+I could not find one filed for the rubber band, the closest that there was is the elastic band. The patent number is US381879A and the author is B. W. HOWARD. It is described as being used for holding together papers. So an alternative would be the paperclip, since its primary function is to do the same. Another would be a folder. Although bulkier, it still gets the job done. Obviously for different situations you would want different products to do the job.
+
+If you look closely at the picture you can see brackets on either end of the band. It doesn't specifically say what they are for, but I would assume it is holding the band together and may even be removable. If they are removable I would guess he did that to let the user be able to remove the bracket easily slip the papers in, the close it.
 
 
 
