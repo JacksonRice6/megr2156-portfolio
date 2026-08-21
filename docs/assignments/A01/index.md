@@ -1,7 +1,7 @@
 # A1 – [Topic]
 
 ## Objective
-For this assignment I had to 
+For this assignment I had to do a few things. I had to build this repository to showcase my work for the semester. I also had to talk about my standards and pick an item and describe its mechanical properties which forced me to think in an engineering mindset. I also had to review other portfolios which helped me understand how mine should look. This project helped me think mechanically and allowed me to build a repository for this semester.
 
 ## Analyze
 
@@ -79,4 +79,6 @@ I decided to change the "Assignments" section to "Projects". The reason being, w
 Every assignment submitted this semester will meet all expectations and standards set by the professor, will be done to the best of my ability, and given the time and effort deserved.
 
 ## Communicate
+
+See About Me page.
 
