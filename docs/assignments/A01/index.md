@@ -72,5 +72,9 @@ The homepage of an engineering portfolio, or any portfolio for that matter, shou
 
 ### One Intentional Customization
 
+I decided to change the "Assignments" section to "Projects". The reason being, when someone is looking at my work assignments give the connotation of homework, not as professional. Projects makes it seem more professional.
+
+### Your Documentation Standard
+
 ## Communicate
 
