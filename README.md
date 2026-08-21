@@ -29,7 +29,7 @@ MEGR-2156-7-template/
 │   ├── portfolio-overview.md   <- Running index of all assignments with status
 │   ├── aboutme/
 │   │   └── index.md            <- About Me page
-│   └── assignments/
+│   └── Projects/
 │       ├── A01/
 │       │   └── index.md        <- A1: Build Your Professional Portfolio
 │       ├── A02/
