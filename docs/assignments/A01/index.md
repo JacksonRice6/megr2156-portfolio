@@ -76,7 +76,7 @@ I decided to change the "Assignments" section to "Projects". The reason being, w
 
 ### Your Documentation Standard
 
-Every assignment submitted this semester will meet all expectations and standards set by the professor and will done to the best of my ability and given the time and effort deserved.
+Every assignment submitted this semester will meet all expectations and standards set by the professor, will be done to the best of my ability, and given the time and effort deserved.
 
 ## Communicate
 
