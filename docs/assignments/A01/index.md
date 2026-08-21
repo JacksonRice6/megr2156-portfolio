@@ -82,3 +82,4 @@ Every assignment submitted this semester will meet all expectations and standard
 
 See About Me page.
 
+Time taken: 4 hours
