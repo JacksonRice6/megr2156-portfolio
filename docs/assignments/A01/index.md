@@ -53,6 +53,12 @@ The tone of this portfolio is very professional using engineering words and phra
 For my product I chose a rubber band. While, yes, it may not be the first thing that comes to mind when you think of something mechanical, it is quite useful. The primary mechanical function of a rubber band is to provide a continuous inward force on a group of objects. Basically it is able to hold things together because of the elasticity in it.
 
 This product primarily uses elastic potential energy to work. When you stretch it the potential energy builds up, so when you release, it snaps back to its original state, turning the potential energy into kinetic energy. Other variables of energy could be sound or heat. This product provides neither. One assumption would be the material. We know it is made of rubber and we know rubber is inherently elastic. From this we can deduce it uses elastic potential energy.
+sfdfgg
+
+<img width="3024" height="4032" alt="IMG_6334" src="https://github.com/user-attachments/assets/0c5264c6-b91d-42e6-b235-3edea6b5190a" />
+
+I used elastic bands here because I felt that better represented the patent I found. There is really only one component and that's the band itself. I cannot break it apart more but essentially
+
 
 
 <img width="2320" height="3408" alt="US381879-drawings-page-1" src="https://github.com/user-attachments/assets/3e85387d-1883-489a-8839-2399741b83ea" />
