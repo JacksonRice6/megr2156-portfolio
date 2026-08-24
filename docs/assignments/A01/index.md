@@ -57,7 +57,7 @@ sfdfgg
 
 <img width="3024" height="4032" alt="IMG_6334" src="https://github.com/user-attachments/assets/0c5264c6-b91d-42e6-b235-3edea6b5190a" />
 
-I used elastic bands here because I felt that better represented the patent I found. There is really only one component and that's the band itself. I cannot break it apart more but essentially
+I used elastic bands here because I felt that better represented the patent I found. There is really only one component and that's the band itself. I cannot break it apart more but essentially, on a molecular level, there are strings that are all chained together and tangled. When you stretch the band, these chains become straight. When you let go the chains want to go back to the tangled state, so they snap back.
 
 
 
