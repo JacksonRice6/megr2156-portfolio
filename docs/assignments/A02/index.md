@@ -9,7 +9,7 @@ The objective of this project was to design a truss able to hold a given load. W
 
 [img1.pdf](https://github.com/user-attachments/files/31665845/img1.pdf)
 
-<img width="1000" height="750" alt="PFxP5HX8oNsLtufFRMumpc-1000-80" src="https://github.com/user-attachments/files/31665845/img1.pdf" />
+![Design](img1.pdf)
 
 
 First step was designing the truss. To do this I just made it as simple as possible. I connected each joint with straight beams, which I realized too late wasn't the most structurally sound design. I then calculated the external and internal forces for each joint. From that I found what the largest force was, just to be safe. See, in order to calculate the dimensions you have to know the force exerted. Since I picked the largest force I knew that the dimensions would work for all members.
