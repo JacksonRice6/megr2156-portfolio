@@ -37,27 +37,40 @@ Next were the pins. The pins were simple compared to the members. I started once
 
 I needed a way to connect each member. I first came up with this square idea but realized the sharp corners would cause problems. Because of this I redesigned it to be circular, to allow for rotation.
 
-(img6)
+<img width="1022" height="782" alt="img6" src="https://github.com/user-attachments/assets/beb8e30b-01f9-4462-b2fc-2a683a1e8da0" />
+
 
 I designed each member separately then joined them together in an assembly file. I decided once I got to the CAD to make it a perfect square that was 28x28mm which gives a 784mm^2 area rather than a 640mm^2. This made the design easier and gave a little extra cushion.
 
-(img7)
-(img8)
+<img width="1431" height="607" alt="img7" src="https://github.com/user-attachments/assets/7b26567a-7e50-4085-b9a2-c65b9802c6dd" />
+
+<img width="1072" height="591" alt="img8" src="https://github.com/user-attachments/assets/98078368-2805-4bb0-bf99-fde42af3260e" />
+
 
 I then extruded it and cut the ends off to make it rounded. After that I added the hole for the pin and cut out the connecting pieces.
 
-(img9)
+<img width="1592" height="1002" alt="img9" src="https://github.com/user-attachments/assets/08e26eb0-4ec1-42d2-ae88-fdb2f9c44e4a" />
+
 
 Once all assembled and material assigned the total weight was 14.6kg. The weight was slightly off. This is because the cross sectional area was more and the material chosen had a density of 7850 kg/m^3 rather than 7800 kg/m^3 because they did not offer A500 steel so I had to use AISI 4340 Steel.
 
-(img10)
+<img width="912" height="486" alt="img10" src="https://github.com/user-attachments/assets/1ee07364-fea7-4fa6-912a-bbf05e6ad4d4" />
 
-The pins were once again simple. I just made a cylinder with the appropriate dimensions. I made a custom material to assign to the pin in order to fit the given properties.
+
+The pins were once again simple. I just made a cylinder with the appropriate dimensions. I made a custom material to assign to the pin in order to fit the given properties. I also decided to chamfer the edges so when the pins insert they slide in easier.
 
 
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
 
+I selected a design that connects each joint and easily holds up the load. I selected this design because it was simple. I feel like most people add too many members to the truss which makes it too complicated and may lead to failure. Having my simple design if something is wrong you can easily identify it.
+
 ## Communicate
+
+In this assignment I learned how to find minimum areas which I feel is going to be one of the most useful tools going forward. This assignment took me about 4 hours, most time was reworking my calculations.
+
+### CAD Files
+[A2.zip](https://github.com/user-attachments/files/31670456/A2.zip)
+
 
