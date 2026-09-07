@@ -1,3 +1,4 @@
+
 # A3 – [Topic]
 
 ## Objective
@@ -54,4 +55,5 @@ In this assignment I learned about the stress concentration factor. This is basi
 
 ### CAD Files
 
+[Beam.zip](https://github.com/user-attachments/files/31928065/Beam.zip)
 
