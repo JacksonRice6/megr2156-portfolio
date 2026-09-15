@@ -8,17 +8,20 @@ For this assignment I had to design a motor mount for a motor. This had to suppo
 
 #### Feature 1
 
-(img1)
+<img width="1545" height="1999" alt="Untitled design" src="https://github.com/user-attachments/assets/0edd061d-fabb-4ff5-88db-2bb5c0bdab57" />
+
 
 This is the part of the motor mount that holds the motor. As normal I listed my knowns and unknowns. Once I did that I set up two different equations, both with the same goal, to find the unknown dimension. Essentially whichever equation gave me the bigger value, is the value I would pick. This is because this just adds an extra bit of cushion. You know the minimum height you need for one equation is less than the minimum height for the other, so go with the other one. For this feature I picked all the other dimensions. To do this I used the dimensions of the motor given. The motor had a diameter of 28mm, so I made a hole with a 30mm diameter to give a little wiggle room and gave it a depth of 4mm to somewhat secure it. I then repeated this process for similar features of the motor. The holes are design for M3 screws.
 
 #### Feature 2
 
-(img2)
+<img width="1545" height="1999" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/908d5d05-9778-4dfb-bdfe-c6e8d4b0ea80" />
+
 
 This feature attaches to the wall. This had a similar process. I started with my knowns and unknowns and started finding the thickness of this feature which I named h2. I set up the max deflection and max stress equations. The max deflection gave me 26.78mm which was the bigger of the two values. The holes on the back are designed for M6 screws.
 
-(img)
+<img width="1545" height="1999" alt="Untitled design (2)" src="https://github.com/user-attachments/assets/40aaf5d9-c038-48fd-a085-27fb2b3d38fb" />
+
 
 #### CAD
 
