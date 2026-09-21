@@ -16,7 +16,18 @@ Now I can do a stress analysis on each part. Before I do that, however, I had to
 
 (img2)
 
-Starting with part A, which is a cylinder, I needed to determine its radius. For the length I assumed 1 inch, really it just needed to be bigger than the width of the strap. I used the equation: r = $\sqrt[3]{\frac{4Z}{\pi}}$. Where Z = $SF \cdot W \cdot \left(\frac{l}{2S_y}\right)$
+Starting with part A, which is a cylinder, I needed to determine its radius. For the length I assumed 1 inch, really it just needed to be bigger than the width of the strap. I wrote my knowns and unknowns and assumptions. I then drew a FBD to visualize how to force is distributed and how many forces I have. I used the equation: r = $\sqrt[3]{\frac{4Z}{\pi}}$. Where Z = $SF \cdot W \cdot \left(\frac{l}{2S_y}\right)$. I found r to be 0.324in. I also found the max strength where I used: $-\frac{W \cdot L}{2 \cdot Z}$. This gave me a max strength of 29962.55 psi.
+
+(img3)
+(img4)
+
+For parts B, C, D, and E I did essentially the same thing. Assumed some dimensions and found the missing one using a stress analysis. I just used common sense for the assumptions. For B I assumed a height of .5 inches. I didn't want it too long to keep it compact and it also needed to easily fit the strap. For the lengths I knew it had to be longer than A so I just went with 1.5 inches. For the other parts I used the given dimensions of the T-Beam and knew it needed space.
+
+(img5)
+
+### Stiffness Analysis
+
+
 
 
 ## Decide
