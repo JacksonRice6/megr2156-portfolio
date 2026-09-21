@@ -22,6 +22,8 @@ $$
 \sqrt[3]{\frac{4Z}{\pi}}
 $$
 
+$\sqrt[3]{8}$
+
 Where Z = $SF \cdot W \cdot \left(\frac{l}{2S_y}\right)$. I found r to be 0.324in. I also found the max strength where I used: $-\frac{W \cdot L}{2 \cdot Z}$. This gave me a max strength of 29962.55 psi.
 
 (img3)
