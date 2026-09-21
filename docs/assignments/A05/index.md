@@ -16,7 +16,13 @@ Now I can do a stress analysis on each part. Before I do that, however, I had to
 
 (img2)
 
-Starting with part A, which is a cylinder, I needed to determine its radius. For the length I assumed 1 inch, really it just needed to be bigger than the width of the strap. I wrote my knowns and unknowns and assumptions. I then drew a FBD to visualize how to force is distributed and how many forces I have. I used the equation: r = $\sqrt[3]{\frac{4Z}{\pi}}$. Where Z = $SF \cdot W \cdot \left(\frac{l}{2S_y}\right)$. I found r to be 0.324in. I also found the max strength where I used: $-\frac{W \cdot L}{2 \cdot Z}$. This gave me a max strength of 29962.55 psi.
+Starting with part A, which is a cylinder, I needed to determine its radius. For the length I assumed 1 inch, really it just needed to be bigger than the width of the strap. I wrote my knowns and unknowns and assumptions. I then drew a FBD to visualize how to force is distributed and how many forces I have. I used the equation: r = 
+$$
+
+\sqrt[3]{\frac{4Z}{\pi}}
+
+$$ 
+Where Z = $SF \cdot W \cdot \left(\frac{l}{2S_y}\right)$. I found r to be 0.324in. I also found the max strength where I used: $-\frac{W \cdot L}{2 \cdot Z}$. This gave me a max strength of 29962.55 psi.
 
 (img3)
 
