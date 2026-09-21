@@ -16,7 +16,7 @@ Now I can do a stress analysis on each part. Before I do that, however, I had to
 
 (img2)
 
-Starting with part A, which is a cylinder, I needed to determine its radius. For the length I assumed 1 inch, really it just needed to be bigger than the width of the strap. I used the equation: $\sqrt{3x-1}$
+Starting with part A, which is a cylinder, I needed to determine its radius. For the length I assumed 1 inch, really it just needed to be bigger than the width of the strap. I used the equation: r = $\cbrt{4*Z/pi}$
 
 
 ## Decide
