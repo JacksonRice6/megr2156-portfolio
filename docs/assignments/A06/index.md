@@ -38,6 +38,7 @@ This assignment took me 3 hours to complete.
 
 ### CAD Files
 
+[Bracket.zip](https://github.com/user-attachments/files/32757023/Bracket.zip)
 
 
 
