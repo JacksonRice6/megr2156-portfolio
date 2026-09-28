@@ -35,3 +35,9 @@ I used the stiffness analysis for the dimensions. This was because a lot, if not
 Most dimensions had the same tolerances, however the parts where the T-beam slides in I kept tighter. This is because any sliding fit needs to be much more precise than other dimensions. Now, most of the tolerances had a .01 precision and this might be a little tight. Because for parts that don't matter as much you're wasting money to keep the tolerance so tight. For these I should have made them looser.
 
 This assignment took me 3 hours to complete.
+
+### CAD Files
+
+
+
+
