@@ -67,4 +67,8 @@ In this assignment I had to decide a lot. One of the biggest decisions was how t
 ## Communicate
 In this assignment I learned how to find a material based off of the pressure and velocity. This is very helpful for multiple situations and is a good tool to have in my belt.
 
+This assignment took me 4 hours to complete.
+
 ### CAD Files
+[A8.zip](https://github.com/user-attachments/files/34302082/A8.zip)
+
