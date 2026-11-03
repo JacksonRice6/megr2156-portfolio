@@ -6,25 +6,25 @@ The objective of this assignment was to design and model a gear box to house two
 ## Analyze
 ### The Shafts
 
-<img width="1124" height="717" alt="1" src="https://github.com/user-attachments/assets/9ada54c4-95cd-4549-ba1c-a2dc40275358" />
-
+<img width="2448" height="793" alt="2026-10-16 18-34 pdf" src="https://github.com/user-attachments/assets/e45f0eba-3d08-4bef-a45f-770e21e650ba" />
 
 The first step was the shafts. I needed to calculate the max stress of each shaft and make sure it fell within the parameters. I first started with my knowns and unknowns then drew a FBD. I had to do two separate calculations, one for the input shaft and one for the output. I chose each shaft length to be one inch knowing I could change it later if need be. I found that each given diameter was sufficient.
 
 ### Journal Bearings
 
-<img width="1053" height="669" alt="2" src="https://github.com/user-attachments/assets/ac93856a-d58b-4ade-a931-386678cbb619" />
+<img width="2448" height="793" alt="2026-10-16 18-34 pdf (1)" src="https://github.com/user-attachments/assets/ec2c92a0-dc0d-4a20-bbaf-d7028284c60d" />
 
+The next step was the journal bearings. These are basically oily sleeves for the shafts to spin in. I had to find a material for this shaft since it would be experience high pressure and high speeds. To do this I found the max pressure and max velocity, 11.26psi and 95.99 ft/min respectively, which gave a max PV of 1080.85 psi*ft/min. I then used this information on a table to find the right material. I found the best material to be acetal. 
 
-The next step was the journal bearings. These are basically oily sleeves for the shafts to spin in. I had to find a material for this shaft since it would be experience high pressure and high speeds. To do this I found the max pressure and max velocity, 11.26psi and 95.99 ft/min respectively, which gave a max PV of 1080.85 psi*ft/min. I then used this information on a table to find the right material. I found the best material to be acetal.
-
-
+<img width="2448" height="793" alt="2026-10-16 18-34 pdf (2)" src="https://github.com/user-attachments/assets/52ba61d8-607b-4767-8e70-d65f85814ca6" />
 
 
 Last step was finding the thickness of the journal bearings which I found to be .000937 inches, very thin.
 
 ### Sketch
-img5
+
+<img width="2448" height="793" alt="2026-10-16 18-34 pdf (3)" src="https://github.com/user-attachments/assets/177627c8-9137-4600-8bac-ebe4fd0395ed" />
+
 
 Before the CAD modeling I had to sketch what it might look like. I decided to just do a simple box that was capped. I gave the inside a little bit of room in case of expansion during heating. At first I went with a snap fit but found it to be too complicated so instead I have 1/16 inch holes on each corner for a nut and bolt connection.
 
