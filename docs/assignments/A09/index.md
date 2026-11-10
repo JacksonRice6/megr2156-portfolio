@@ -16,11 +16,19 @@ I started the same as always, writing my knowns and unknowns. Then I found the a
 _________________________________________________________________________________________________________________________________________________
 
 ### Shaft
+
+<img width="2000" height="1331" alt="2026-11-06 20-01 pdf (2)" src="https://github.com/user-attachments/assets/ae5878ae-0e1b-4261-b10a-72b25305bdc5" />
+
+
 I needed to now find the diameter of the shaft. I started with finding power to be 33018 lbf*in/min then found torque to be 16.509 lbf*in. I then used that number and some givens to find the minimum diameter with a safety factor of 3 to be .161 inches. This meant the minimum area would be .0204 inches squared.
 
 __________________________________________________________________________________________________________________________________________________
 
 ### Journal Bearing
+
+<img width="2000" height="1331" alt="2026-11-06 20-01 pdf (3)" src="https://github.com/user-attachments/assets/d0d88455-45c1-4772-95eb-265e020e8a8e" />
+
+
 Now for the journal bearing. This journal bearing allows the shaft to spin inside of it meaning it will experience a lot of pressure and velocity. So it is important to find the right material. To do this I had to figure out just how much pressure and velocity it would experience. I assumed the length to be 2 inches because the shaft was only .161 inches in diameter so I figured it couldn't be but so long. I then found radial and tangential force which led me to a pressure of 231.8 psi and a velocity of 84.3 ft/min meaning PV was 19540.74. Looking at the table below you can easily see that only a few materials fit the PV. I at first thought about going with TFE fabric because the PV value was close but the pressure was just way too high. So I instead just went with Porous Bronze.
 
 <img width="784" height="568" alt="Screenshot 2026-11-09 200658" src="https://github.com/user-attachments/assets/791349f0-1113-4f35-8297-d7b4d36bf7cb" />
@@ -28,7 +36,14 @@ Now for the journal bearing. This journal bearing allows the shaft to spin insid
 __________________________________________________________________________________________________________________________________________________
 
 ### The Frame
+
+<img width="2000" height="1331" alt="2026-11-06 20-01 pdf" src="https://github.com/user-attachments/assets/2a085b26-d44f-48eb-a982-c170a8b00a6c" />
+
+
 In order to design the frame I had to calculate the weight of the shaft and pulley. I figured the journal bearing weight to be negligible. I went with a frame that was to be attached to a ceiling since the assignment gives us no details on where the pulley is to be installed. I first calculated how thick the parts needed to be. I picked aluminum as the material because that was the same material as the pulley. The shaft and pulley together weighed .288 lbs for each so a total of .576 lbs, that's nothing. Needless to say, it didn't have to be thick, so I just decided on .1 inches. I then had to attack the bar that was in the middle. I treated this as a beam supported in the middle with a load on either end. Same thing, not much weight so I made it .2 inches thick. I think the design works nicely.
+
+<img width="2000" height="1331" alt="2026-11-06 20-01 pdf (4)" src="https://github.com/user-attachments/assets/a1af1f94-1756-4d9a-a3f9-d279e6cfa392" />
+
 
 ##### _____________________________________________________________________________________________
 
