@@ -3,7 +3,7 @@
 ## Objective
 The objective of this assignment was design a pulley system with the dimensions as well as materials using various formulas and tables given through our lectures and our book.
 
-##### _________________________________________________________________________________________________________
+##### ______________________________________________________________________________________
 
 ## Analyze
 ### Belt Selection
@@ -24,9 +24,9 @@ Now for the journal bearing. This journal bearing allows the shaft to spin insid
 __________________________________________________________________________________________________________________________________________________
 
 ### The Frame
+In order to design
 
-
-##### ____________________________________________________________________________________________________________________
+##### ___________________________________________________________________________
 
 
 ## Decide
