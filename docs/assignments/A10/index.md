@@ -20,15 +20,24 @@ Constrains:
 Now that everything was designed we just had to assemble it. First was the crosshead assembly. This consisted of two leadscrews, the crosshead itself, two flanges, and two nuts.
 
 <img width="627" height="559" alt="image" src="https://github.com/user-attachments/assets/aec8fdf4-68ff-481d-888f-8c0ab285f383" />
-
+<img width="635" height="177" alt="image" src="https://github.com/user-attachments/assets/ff2ea178-0c7c-4737-a072-435dc24bee09" />
+<img width="633" height="566" alt="image" src="https://github.com/user-attachments/assets/1acad911-1f6d-45f9-baa4-8db79d3c30b6" />
 
 Now was time for the full assembly. This was just the crosshead assembly and the frame. The frame had to be assembled part by part which proved more difficult than I first thought. I had to find the right size and at first the smallest size was 1 meter, which was way too big. I eventually found the right sizes and assembled the frame.
+
+<img width="585" height="760" alt="image" src="https://github.com/user-attachments/assets/6687361e-c397-4593-8a91-7a68d65e1701" />
+<img width="570" height="708" alt="image" src="https://github.com/user-attachments/assets/6cf2917b-294e-487e-98ac-e97dbd52d0e8" />
+<img width="564" height="300" alt="image" src="https://github.com/user-attachments/assets/aa85358f-1750-4e6a-9d2f-695c090fe2fe" />
+
+
 
 
 When everything was added I did not like the exposed ends of the frame. To account for this I made custom cover plates for the ends. One really big problem I had was the flanges. I spent almost an hour looking for the flanges for the bottom and top of the lead screws. I could not find any so I just made them myself.
 
 
 CAD Files:
+
+[A10 (2).zip](https://github.com/user-attachments/files/34923325/A10.2.zip)
 
 
 ## Decide
