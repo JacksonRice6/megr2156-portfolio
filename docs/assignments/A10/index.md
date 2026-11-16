@@ -18,6 +18,7 @@ Constrains:
 ### The Assembly - Jackson Rice
 
 Now that everything was designed we just had to assemble it. First was the crosshead assembly. This consisted of two leadscrews, the crosshead itself, two flanges, and two nuts.
+
 <img width="627" height="559" alt="image" src="https://github.com/user-attachments/assets/aec8fdf4-68ff-481d-888f-8c0ab285f383" />
 
 
