@@ -52,14 +52,18 @@ In order to design the motor mount I had to find the thickness the material need
 
 The nest thing to do was to design a coupler that would connect the lead screw to the motor shaft. I first started out by listing all my knowns. I knew the internal diameter of the coupler must be 10 mm as that is the shaft size of the motor, the material of the coupler will be steel so its yield strength is 250 MPA, and lastly i know the torque applied to the coupler will be .6785 N-m. From these i know i need to solve for the outer diameter/ size of the coupler so it can withstand the torque applied.  
 
-![coupler](coupdesign.jpg)
+<img width="1668" height="2157" alt="image" src="https://github.com/user-attachments/assets/4d100abf-f2b9-470c-90fd-44517fef30df" />
+
 
 From my calculations I see that i need an outer diameter of at least 10.13 mm but i decided to round up to 10.5 mm to be easier to actually manufacture and to have a built in extra safety factor. and here is the dsign for the motor  
 
-![coupler](coupler.jpg)  
+<img width="1668" height="641" alt="image" src="https://github.com/user-attachments/assets/ea8b65c9-b40a-4535-ac80-a5d8f5904413" />
+
 
 ### Frame Connectors  
-![Math](IMG_0311.jpeg)  
+
+<img width="1520" height="651" alt="image" src="https://github.com/user-attachments/assets/53d73ae8-9a98-426c-84fc-5e48294703a3" />
+
 To select the frame connector, I used my McMasterCarr resources to determine the best fit for our T-Slotted Framing. I determined the 1in x 1in. would be enough surface area to help support the 2000N load, weight and twist of the motors onto the frame. With help of the motor mount, this twist should be significantly reduced.  
 
 [Link to Connector](https://www.mcmaster.com/47065T236/?utm_term=mounted+sleeve+bearings&matchtype=e&campaignid=22711799005&adgroupid=180671261479&location=9009981&gad_source=1&gad_campaignid=22711799005&gbraid=0AAAAACLR9bxAAeR6trfCg2NwrnhPP943C&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7cv5DuWSrVLJgJ4cEetm9r8teNK4lYjQCNme6oHTpvSKDxixhAoPXBoCp3wQAvD_BwE)  
@@ -68,15 +72,23 @@ To select the frame connector, I used my McMasterCarr resources to determine the
 
 I had to verify that the top of the frame would provide enough strength necessary to withstand the loads of the lead screws and the torque applied by the motors. I took just top frame in CAD and then conducted a FEA simulation where both ends are fixed in place and there are 1kN loads on the frame where the lead screw would be. I also ran two simulations one with a fine mesh and one with a coarser mesh and here they are below. 
 
-![FEA](frame.png)
-![FEA](finedetails.png)
-![FEA](finestress.png)
-![FEA](finedisplacement.png)
-![FEA](fineSF.png)
-![FEA](coarsedetails.png)
-![FEA](coarsestress.png)
-![FEA](coarsedisplace.png)
-![FEA](coarseSF.png)
+<img width="2239" height="844" alt="image" src="https://github.com/user-attachments/assets/b300da6c-e8c2-4fa9-96b6-47701d08f9dc" />
+
+<img width="489" height="408" alt="image" src="https://github.com/user-attachments/assets/75401225-429c-4aa6-8736-1c74e228d089" />
+
+<img width="1282" height="603" alt="image" src="https://github.com/user-attachments/assets/511924e5-592f-482f-b365-4a666a4af78a" />
+
+<img width="856" height="523" alt="image" src="https://github.com/user-attachments/assets/60ca6c14-81f5-4747-9dd5-f7ce371c4830" />
+
+<img width="1549" height="561" alt="image" src="https://github.com/user-attachments/assets/ae3077e9-8e30-4f96-90db-f668230e3459" />
+
+<img width="298" height="238" alt="image" src="https://github.com/user-attachments/assets/b47038a6-e976-4c31-8e38-d9bd07ad8cfb" />
+
+<img width="1595" height="594" alt="image" src="https://github.com/user-attachments/assets/818a313e-869a-4b15-9342-b67246e12028" />
+
+<img width="1484" height="533" alt="image" src="https://github.com/user-attachments/assets/c8559951-b360-4f72-a47c-f8b5f203ced7" />
+
+<img width="1486" height="526" alt="image" src="https://github.com/user-attachments/assets/fc1324b2-bd2c-49b4-9e59-b2df40459d9b" />
 
 From these simulations i calculated a convergence check on the two to verify the results. I got a difference of 7% for the saftey factor, .3% for the displacement, and 7% for the stresses and since all are 7% or under they converge and the results are verified.
 
@@ -106,7 +118,9 @@ Noting functional tolerances: RC3 fit for the bearing inner diameter allowing fo
 ### Bill of Materials and Labor Cost  
 Hourly cost for team members was $35 / Hour (median entry-level engineering designer pay)  
 [Link to Bill of Materials and Labor Cost](https://docs.google.com/spreadsheets/d/15JimiBi4IxkgIMTaRMZI8nueYGNDZvNTg6ABmjvZoxY/edit?usp=sharing)  
-![tab_pic](tabulation.jpg)  
+
+<img width="512" height="439" alt="image" src="https://github.com/user-attachments/assets/095c9938-1109-43a9-b3bc-5aed2d1c2f42" />
+
 
 
 ## Lessons Learned
