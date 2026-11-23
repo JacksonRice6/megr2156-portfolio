@@ -35,6 +35,8 @@ The reason i selected this motor is because first it is a steeper motor which al
 ![graph](Torquegraph.png)
 
 ### Motor Mount  
+In order to design the motor mount I had to find the thickness the material needed to be. First I selected the material to be 1100 aluminum because it was cheap and the yield strength was more than enough for what I needed. Next I designed it with the dimensions of the actual motor in mind. I mad a casing just big enough for the motor to slide into the holes aligned properly so it could be screwed in. I then calculated the thickness based on two things: the deflection and normal stress. The deflection formula I had to look up to find, then I rearranged it to solve for thickness assuming a max deflection of one millimeter. I also calculated the normal stress using the yield strength of my material. Both used a safety factor of 2. The thickness for max deflection was far greater and was 3.8mm so I designed it with a thickness of 4mm.
+
 ![motormount](motormountmath1.jpg)  
 ![motormount](motormountmath2.jpg)  
 ![motormount](motormountmath3.jpg)  
@@ -75,6 +77,16 @@ From these simulations i calculated a convergence check on the two to verify the
 Optimization: Looking at the FEA I see that the max stress and bending is where the load from the lead screw connects to the frame. Based from this I would put put square piece of material the size of the frame around these holes made of steel which would be much stronger then the aluminum frame and these square pieces would strengthen and limit the bending of the frame. 
 
 [Link to FEA study](Topframestudy.SLDPRT)
+
+### Side Frame FEA
+
+<img width="919" height="576" alt="image" src="https://github.com/user-attachments/assets/eb90d98f-7c81-4e20-9c3c-d8a09c0cdf38" />
+
+For the FEA on the vertical components I did two studies, one with medium mesh and the other with fine mesh. This was showing compression of the beams. The max deflection I got was 0.0028 inches which is great and the max stress was 1.463 ksi which is far below the yield strength of 31 ksi. The factor of safety was 21 which is very high because the yield strength of our material was far beyond the max stress is experienced.
+
+Cad File:
+[SideFrameFEA.zip](https://github.com/user-attachments/files/35299169/SideFrameFEA.zip)
+
 
 
 ### Mounted Bearing w/ RC3 Class fit  
