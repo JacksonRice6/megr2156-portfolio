@@ -34,17 +34,19 @@ From the last assignment i learned that with my 1/4 inch lead screw the required
 
 The reason i selected this motor is because first it is a steeper motor which allows it to control its speed and also knows its location so it can be used for precise movements. Second it has a 3nm torque rating which is well above the required torque of .6786 N-m so it has a built and safety factor. Also by looking at its torque speed graph we can see that under 31.5 RPM it still has a output torque of 2.67 N-m which is plenty for this lead screw design. 
 
-<img width="1034" height="360" alt="image" src="https://github.com/user-attachments/assets/484c93cf-3d4d-4271-adfc-bbdf83e02b9c" />
-
+<img width="2283" height="900" alt="image" src="https://github.com/user-attachments/assets/1c939854-628e-4b80-bd0a-d9fcbe5aabbe" />
 
 ### Motor Mount  
 In order to design the motor mount I had to find the thickness the material needed to be. First I selected the material to be 1100 aluminum because it was cheap and the yield strength was more than enough for what I needed. Next I designed it with the dimensions of the actual motor in mind. I mad a casing just big enough for the motor to slide into the holes aligned properly so it could be screwed in. I then calculated the thickness based on two things: the deflection and normal stress. The deflection formula I had to look up to find, then I rearranged it to solve for thickness assuming a max deflection of one millimeter. I also calculated the normal stress using the yield strength of my material. Both used a safety factor of 2. The thickness for max deflection was far greater and was 3.8mm so I designed it with a thickness of 4mm.
 
-<img width="533" height="477" alt="image" src="https://github.com/user-attachments/assets/023473b2-54fe-4de9-895e-c81443431595" />
+<img width="512" height="458" alt="image" src="https://github.com/user-attachments/assets/2cf45992-8f35-43e1-8387-5bf707bb4294" />
 
-![motormount](motormountmath2.jpg)  
-![motormount](motormountmath3.jpg)  
-![cadmotormount](CADmotormount.jpg)  
+<img width="385" height="512" alt="image" src="https://github.com/user-attachments/assets/e58c9cf2-18ff-486f-8804-7b8c9e33f5c7" />
+
+<img width="489" height="512" alt="image" src="https://github.com/user-attachments/assets/67782970-9bc6-4675-8cef-db78df2e2fb6" />
+
+<img width="512" height="311" alt="image" src="https://github.com/user-attachments/assets/492de2d0-5342-4d40-9d16-d0f8680d459f" />
+
 
 ### Coupler Design
 
