@@ -26,18 +26,22 @@ Outline:
 
 From the last assignment i learned that with my 1/4 inch lead screw the required toque for each motor would be .6786 N-m and the rotational speed range for this torque is .63 - 31.5 RPM. Based off of this i reachred a;l type of motors and landed on the Nema 23 Bipolar 3Nm(425oz.in) 3.5A 57x57x113mm 4 Wires CNC Stepper Motor. 
 
-![motor](motor.png)
-![dimen](dimensions.png)
+<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/a9306788-8055-40eb-89f0-86b30ad749fe" />
+
+<img width="950" height="364" alt="image" src="https://github.com/user-attachments/assets/0ac5e6cb-f92c-410a-b298-e465024c991c" />
+
 [Link to Motor](https://www.omc-stepperonline.com/nema-23-bipolar-3nm-425oz-in-3-5a-57x57x114mm-4-wires-cnc-stepper-motor-23hs45-3504s)
 
 The reason i selected this motor is because first it is a steeper motor which allows it to control its speed and also knows its location so it can be used for precise movements. Second it has a 3nm torque rating which is well above the required torque of .6786 N-m so it has a built and safety factor. Also by looking at its torque speed graph we can see that under 31.5 RPM it still has a output torque of 2.67 N-m which is plenty for this lead screw design. 
 
-![graph](Torquegraph.png)
+<img width="1034" height="360" alt="image" src="https://github.com/user-attachments/assets/484c93cf-3d4d-4271-adfc-bbdf83e02b9c" />
+
 
 ### Motor Mount  
 In order to design the motor mount I had to find the thickness the material needed to be. First I selected the material to be 1100 aluminum because it was cheap and the yield strength was more than enough for what I needed. Next I designed it with the dimensions of the actual motor in mind. I mad a casing just big enough for the motor to slide into the holes aligned properly so it could be screwed in. I then calculated the thickness based on two things: the deflection and normal stress. The deflection formula I had to look up to find, then I rearranged it to solve for thickness assuming a max deflection of one millimeter. I also calculated the normal stress using the yield strength of my material. Both used a safety factor of 2. The thickness for max deflection was far greater and was 3.8mm so I designed it with a thickness of 4mm.
 
-![motormount](motormountmath1.jpg)  
+<img width="533" height="477" alt="image" src="https://github.com/user-attachments/assets/023473b2-54fe-4de9-895e-c81443431595" />
+
 ![motormount](motormountmath2.jpg)  
 ![motormount](motormountmath3.jpg)  
 ![cadmotormount](CADmotormount.jpg)  
